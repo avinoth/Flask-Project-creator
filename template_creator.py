@@ -1,6 +1,4 @@
 import os
-import urllib
-import urllib2
 
 
 project = raw_input("Enter the Project name")
